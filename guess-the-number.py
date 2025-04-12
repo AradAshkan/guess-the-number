@@ -31,4 +31,3 @@ def guess_the_number():
 # Run the game
 if __name__ == "__main__":
     guess_the_number()
-    guess_the_number()
